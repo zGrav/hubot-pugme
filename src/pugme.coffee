@@ -9,7 +9,7 @@
 #
 # Commands:
 #   hubot pug me - Receive a pug
-#   hubot how many pugs are there - Count pugs
+#   hubot how many pugs are there - Count amount of pugs that I can display
 
 module.exports = (robot) ->
 
